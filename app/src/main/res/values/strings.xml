@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Toast</string>
+    <string name="installButton">Install</string>
+    <string name="uninstallButton">Uninstall</string>
+</resources>
